@@ -1,0 +1,10 @@
+body{
+    background-image: url("Untitled\ design\ \(6\).png");
+}
+.header img{
+    width: 80px;
+    margin-left: 15px;
+}
+#room_name{
+    width: 60%;
+}
